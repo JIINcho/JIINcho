@@ -4,15 +4,15 @@ Spring Boot와 React로 효율적인 애플리케이션을 개발하고, HTML/CS
 끊임없이 배우며 성장하고, 코드로 더 나은 세상을 만드는 데 열정을 가지고 있습니다.
 
 ## 🛠️ 기술 스택
-### 💻 백엔드
-Spring Boot : RESTful API, 데이터베이스 관리, 서버 로직
-### 🎨 프론트엔드
-HTML5 / CSS3 (Thymeleaf) : 반응형 디자인
-### 📱 모바일 개발
-Android Studio : 네이티브 앱 개발
-### 기타
-Figma : 디자인 및 프로토타입 제작  
-Git/GitHub : 버전 관리 및 협업
+### 💻 백엔드 (Backend)
+- 🌱 Spring Boot: 경량화된 프레임워크로 빠른 개발과 유지보수를 지원
+- 📊 JPA: 객체지향적인 데이터베이스 관리와 효율적인 쿼리 처리
+- 🐬 MySQL / MariaDB: 안정적이고 확장 가능한 데이터베이스 솔루션
+### 🎨 프론트엔드 (Frontend)
+- 🖋️ HTML5: 시맨틱 마크업으로 구조화된 웹 페이지 작성
+- 🎨 CSS3: 반응형 디자인과 사용자 친화적 인터페이스 구현
+### 🖌️ 디자인 (Design)
+- 🎨 Figma: 와이어프레임과 프로토타입 제작으로 직관적 UI 설계
 
 ## 🏆 프로젝트
 ### 🚌 버스 기사님 앱 & 사용자 앱
@@ -35,6 +35,7 @@ Git/GitHub : 버전 관리 및 협업
 
 여러분의 피드백과 협업을 언제든 환영합니다!
 리포지토리를 방문해 주셔서 감사합니다. 😊
+
 
 <!--
 **JIINcho/JIINcho** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
